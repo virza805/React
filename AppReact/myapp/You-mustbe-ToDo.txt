@@ -1,0 +1,9 @@
+node install your PC.
+
+Then open your Terminal on Currant Deracktory 
+
+Then :- 
+
+npm install -g
+
+Then npm start
